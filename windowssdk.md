@@ -145,7 +145,7 @@ ISSUE in YARN:
 ==============
 
 
-yarn starts up without issues but below only one error.
+yarn starts up without issues but below only one warning.
 
 
 STARTUP_MSG:   java = 1.7.0_79
